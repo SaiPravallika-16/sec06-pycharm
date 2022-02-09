@@ -15,4 +15,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('Honey')
     print(my_fun(2,3))
+    print("is it working?")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
