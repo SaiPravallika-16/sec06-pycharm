@@ -16,4 +16,5 @@ if __name__ == '__main__':
     print('Honey')
     print(my_fun(2,3))
     print("is it working?")
+    print("Thank you")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
